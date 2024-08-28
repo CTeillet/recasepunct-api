@@ -1,5 +1,3 @@
-Certainly! Here is the `README.md` file for your project written in Markdown without the initial code block:
-
 # Recasepunc Docker API
 
 This project provides a REST API based on Flask to use **recasepunc**, a tool that corrects letter casing and punctuation in text. The API is hosted in a Docker container, and the language model used by **recasepunc** can be easily customized.
